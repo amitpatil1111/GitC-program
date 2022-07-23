@@ -28,7 +28,8 @@ class shooes
 		cout<<"\n enter prise"<<prise;
 		cout<<"\n enter size"<<size;
 			cout<<"\n thanku for visiting";
-    }
+                cout<<"\n thanku";
+	}
 };
     
     main()
@@ -38,6 +39,7 @@ class shooes
     	a1.accept();
     	a1.print();
 	}
+
 	
 	
 	
